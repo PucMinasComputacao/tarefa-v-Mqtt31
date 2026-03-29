@@ -9,10 +9,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Afonso Marquetotti
+- Matricula: 1546652
+- Proposta de projeto escolhida: Site de musica
+- Breve descrição sobre seu projeto: Aba de uma página que busca oferecer pacotes de aulas e entretenimento sobre musica e seus instrumentos. Com foco em trazer conhecimento para o aluno, fornecer uma plataforma de musica para o seu dia a dia é aperfeiçoar suas habilidade musicais
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
